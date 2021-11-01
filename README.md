@@ -2,7 +2,7 @@
 
 This app is a `Ruby on Rails API` for the backend a `Vue 3 App` for the frontend and a `SQLite3` Database. 
 
-This is a simple Todos app that creates a Todos list with a Category, Title, Desciption, and Scheduled Date and Time.  It utilized CRUD capabilities so What Todos can be created, deleted and updated by marking as complete.  Also, the What Todos list can be filtered by listing 5, 25, 50, and 100 What Todos at a time. In order to run this app you need to run both the frontend and back in two different terminals.  
+This is a simple Todos app that creates a Todos list with a Category, Title, Desciption, and Scheduled Date and Time.  It utilizes CRUD capabilities so What Todos can be created, read, deleted and updated by marking as complete.  Also, the What Todos list can be filtered by listing 5, 25, 50, and 100 What Todos at a time. In order to run this app you need to run both the frontend and backend in two different terminals.  
 
 ### Ruby on Rail API backend
 The Ruby on Rails backend app also utilizes cors, and sqlite3 gems
