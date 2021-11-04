@@ -70,6 +70,7 @@ body {
 .app-container {
   min-height: 100vh;
   position: relative;
+  padding-bottom: 100px;
 }
 
 .todos-container {
@@ -78,7 +79,7 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 5px;
   background: #f7f7f7;
-  margin: 200px 0 80px 0;
+  margin: 200px 0 0 0;
 }
 
 footer {

@@ -24,4 +24,14 @@ Run the development server:
 npm run serve
 ```
 
+### What Todos View
+![image](https://user-images.githubusercontent.com/21202079/140430168-b02ef342-466e-4bfa-b974-184fd325f87b.png)
 
+### Add What Todo View
+![image](https://user-images.githubusercontent.com/21202079/139708480-5f056f26-398d-4ee7-8cc2-0eb44fc56144.png)
+
+### Calendar View in Add What Todo
+![image](https://user-images.githubusercontent.com/21202079/139709713-fbab6e35-4431-4dc0-91e5-1cc0e0864ede.png)
+
+### Time View in Add What Todo
+![image](https://user-images.githubusercontent.com/21202079/139709948-d97449f5-0a8f-4b0a-912d-bdaa4e3a8c26.png)

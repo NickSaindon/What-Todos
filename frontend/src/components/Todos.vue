@@ -88,6 +88,7 @@ export default {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  flex-direction: inherit;
 }
 .is-complete {
   background: #198754;
